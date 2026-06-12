@@ -112,7 +112,7 @@ ff3_monthly = (
 
 # ── Macro data from FRED ──────────────────────────────────────────────────
 from fredapi import Fred
-fred = Fred(api_key="349e72f406d1867b9f32bf73b5596355")
+fred = Fred(api_key="")
 
 fred_series = {
     "DGS10": "treasury_10y",
