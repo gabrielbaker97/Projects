@@ -10,7 +10,7 @@ Projects exploring financial markets through data analysis and quantitative meth
 ## Data
 - Data is collected from free online sources
 
-# FRED API setup
+### FRED API setup
 1. Obtain a FRED API key.
 2. Copy `.env.example` to `.env`.
 3. Add your API key:
