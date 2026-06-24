@@ -20,10 +20,11 @@ Projects exploring financial markets through data analysis and quantitative meth
 
 
 ## Projects
-| Project                                  | Folder           | Status      |
-|------------------------------------------|------------------|-------------|
-| Rolling 5-year momentum strategy         | momentum_strategy| Done        |
-| Strategic vs. Tactical Asset Allocation  | saa_ta.          | In progress |
+| Project                                  | Folder            | Status      |
+|------------------------------------------|-------------------|-------------|
+| Rolling 5-year momentum strategy         | momentum_strategy | Done        |
+| Strategic vs. Tactical Asset Allocation  | saa_ta            | Done        |
+| Active Fund Decomposition                | fund_decomposition| In progress |
 
 
 ## Setup
